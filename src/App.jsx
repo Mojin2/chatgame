@@ -6,7 +6,7 @@ import "./App.css";
 import { SectionsContainer, Section } from "react-fullpage";
 
 let options = {
-  anchors: ["Home", "Chat", "Final"],
+  anchors: ["Home", "Chat"],
   delay: 1000,
   scrollBar: false,
   navigation: false,
