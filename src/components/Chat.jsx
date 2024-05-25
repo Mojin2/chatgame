@@ -25,9 +25,9 @@ export default function Chat() {
   const [audio] = useState(new Audio("bgm/bgm.mp3"));
 
   const handlePlay = () => {
-    // audio.play().catch((error) => {
-    //   console.error("Audio play failed:", error);
-    // });
+    audio.play().catch((error) => {
+      console.error("Audio play failed:", error);
+    });
   };
   const images = [
     image1,

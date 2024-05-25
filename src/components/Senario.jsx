@@ -115,7 +115,7 @@ export default function Senario({ onData }) {
   return (
     <div
       onClick={handleClick}
-      className=" absolute bottom-2 border-4 px-4 py-6 border-white left-2 right-2 h-[350px] text-2xl bg-slate-950 bg-opacity-60 rounded-xl font-medium"
+      className=" absolute bottom-2 border-4 px-4 py-4 border-white left-2 right-2 h-[300px] text-2xl bg-slate-950 bg-opacity-60 rounded-xl font-medium"
     >
       <div
         style={{ cursor: "pointer", padding: "20px" }}
@@ -131,7 +131,7 @@ export default function Senario({ onData }) {
               <div
                 key={index}
                 onClick={() => handleOptionClick(option.nextLine)}
-                style={{ margin: "10px", cursor: "pointer" }}
+                style={{ margin: "7px", cursor: "pointer" }}
                 className="font-Dodum"
               >
                 <div className="flex flex-row items-center">
