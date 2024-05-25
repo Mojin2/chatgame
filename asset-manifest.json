@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/chatgame/static/css/main.0843307e.css",
-    "main.js": "/chatgame/static/js/main.e0461af8.js",
+    "main.css": "/chatgame/static/css/main.e13cc17a.css",
+    "main.js": "/chatgame/static/js/main.87f79ab6.js",
     "static/media/Dodum.ttf": "/chatgame/static/media/Dodum.39c9a39c246c3c54c53e.ttf",
     "static/media/Dokdo.ttf": "/chatgame/static/media/Dokdo.cb80e5f9082de45c829e.ttf",
     "static/media/SongMyung.ttf": "/chatgame/static/media/SongMyung.1bfcd536436055354fb6.ttf",
@@ -24,11 +24,11 @@
     "static/media/8.png": "/chatgame/static/media/8.855722bba7b7d2b16b19.png",
     "static/media/bg.jpeg": "/chatgame/static/media/bg.fc42050ca5bcd2cd9f93.jpeg",
     "index.html": "/chatgame/index.html",
-    "main.0843307e.css.map": "/chatgame/static/css/main.0843307e.css.map",
-    "main.e0461af8.js.map": "/chatgame/static/js/main.e0461af8.js.map"
+    "main.e13cc17a.css.map": "/chatgame/static/css/main.e13cc17a.css.map",
+    "main.87f79ab6.js.map": "/chatgame/static/js/main.87f79ab6.js.map"
   },
   "entrypoints": [
-    "static/css/main.0843307e.css",
-    "static/js/main.e0461af8.js"
+    "static/css/main.e13cc17a.css",
+    "static/js/main.87f79ab6.js"
   ]
 }
