@@ -99,6 +99,7 @@ export default function Senario({ onData }) {
           setCurrentLine(currentLine + 1);
           setIsTyping(true);
           onData(currentLine);
+          console.log(currentLine);
         }
       }
     }
@@ -107,7 +108,8 @@ export default function Senario({ onData }) {
   const handleOptionClick = (nextLine) => {
     setCurrentLine(nextLine);
     setIsTyping(true);
-    onData(currentLine);
+    onData(nextLine - 1);
+    console.log(nextLine);
   };
 
   return (

@@ -25,9 +25,9 @@ export default function Chat() {
   const [audio] = useState(new Audio("bgm/bgm.mp3"));
 
   const handlePlay = () => {
-    audio.play().catch((error) => {
-      console.error("Audio play failed:", error);
-    });
+    // audio.play().catch((error) => {
+    //   console.error("Audio play failed:", error);
+    // });
   };
   const images = [
     image1,
@@ -58,9 +58,7 @@ export default function Chat() {
       } bg-cover bg-slate-950 relative w-screen h-screen flex justify-center items-center font-extrabold text-6xl text-white flex-col`}
     >
       <div className="w-full h-full flex items-center justify-center">
-        {currentLine >= 0 && (
-          <img src={images[currentLine]} className="mt-32" />
-        )}
+        {currentLine >= 0 && <img src={images[currentLine]} className="mt-8" />}
       </div>
       <div className="w-full h-full" onClick={handlePlay}>
         <Senario onData={handleChildData} />

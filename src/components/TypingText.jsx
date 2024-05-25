@@ -3,7 +3,6 @@ import React, { useEffect, useState } from "react";
 
 const TypingText = ({ text, onComplete }) => {
   const [displayedText, setDisplayedText] = useState("");
-  console.log(text);
   useEffect(() => {
     let index = -1;
     setDisplayedText(""); // 새 텍스트가 나타날 때 초기화
