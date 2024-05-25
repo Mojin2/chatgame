@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/chatgame/static/css/main.33d9ee4d.css",
+    "main.js": "/chatgame/static/js/main.768b7c4a.js",
+    "static/media/Dodum.ttf": "/chatgame/static/media/Dodum.39c9a39c246c3c54c53e.ttf",
+    "static/media/Dokdo.ttf": "/chatgame/static/media/Dokdo.cb80e5f9082de45c829e.ttf",
+    "static/media/SongMyung.ttf": "/chatgame/static/media/SongMyung.1bfcd536436055354fb6.ttf",
+    "static/media/Bungee.ttf": "/chatgame/static/media/Bungee.ef0981fe1b16b5ec4023.ttf",
+    "static/media/cake6.gif": "/chatgame/static/media/cake6.79a0dc87fa87d2a30966.gif",
+    "static/media/room.jpeg": "/chatgame/static/media/room.640f4b49b992b8ac1f98.jpeg",
+    "static/media/14.png": "/chatgame/static/media/14.0a1320f71511ea062a41.png",
+    "static/media/13.png": "/chatgame/static/media/13.84fa4cd4583010c6a2cb.png",
+    "static/media/9.png": "/chatgame/static/media/9.0caef572b8c3116f935b.png",
+    "static/media/3.png": "/chatgame/static/media/3.36f93c7e3c45e65ce55c.png",
+    "static/media/6.png": "/chatgame/static/media/6.a1d2d2912ca9e946f371.png",
+    "static/media/1.png": "/chatgame/static/media/1.ec0d53c1a69da94b3762.png",
+    "static/media/2.png": "/chatgame/static/media/2.ec0d53c1a69da94b3762.png",
+    "static/media/10.png": "/chatgame/static/media/10.0390f519ef29f9dd822c.png",
+    "static/media/11.png": "/chatgame/static/media/11.0390f519ef29f9dd822c.png",
+    "static/media/12.png": "/chatgame/static/media/12.0390f519ef29f9dd822c.png",
+    "static/media/7.png": "/chatgame/static/media/7.0390f519ef29f9dd822c.png",
+    "static/media/4.png": "/chatgame/static/media/4.855722bba7b7d2b16b19.png",
+    "static/media/5.png": "/chatgame/static/media/5.855722bba7b7d2b16b19.png",
+    "static/media/8.png": "/chatgame/static/media/8.855722bba7b7d2b16b19.png",
+    "static/media/bg.jpeg": "/chatgame/static/media/bg.fc42050ca5bcd2cd9f93.jpeg",
+    "index.html": "/chatgame/index.html",
+    "main.33d9ee4d.css.map": "/chatgame/static/css/main.33d9ee4d.css.map",
+    "main.768b7c4a.js.map": "/chatgame/static/js/main.768b7c4a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33d9ee4d.css",
+    "static/js/main.768b7c4a.js"
+  ]
+}
