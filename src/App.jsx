@@ -23,9 +23,9 @@ function App() {
         <Section>
           <Chat />
         </Section>
-        <Section>
+        {/* <Section>
           <Final />
-        </Section>
+        </Section> */}
       </SectionsContainer>
     </div>
   );
